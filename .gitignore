@@ -1,9 +1,18 @@
-# executáveis
+# Executáveis
 *.exe
 *.out
+
+# Arquivos de compilação
+*.o
+
+# Dev-C++
+Makefile.win
+*.layout
 
 # VS Code
 .vscode/
 
-# arquivos temporários
-*.o
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
