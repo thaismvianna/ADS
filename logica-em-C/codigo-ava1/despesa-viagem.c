@@ -18,8 +18,8 @@ int main() { //variáveis
     //obs: sempre para executar o codigo tem que compilar
     
     printf("\nRESULTADO DA VIAGEM\n");
-    printf("Distancia: %.2f km\n", distancia);
-    printf("Preco do litro: R$ %.2f\n", preco);
+    printf("Distância: %.2f km\n", distancia);
+    printf("Preço do litro: R$ %.2f\n", preco);
     printf("Total a gastar: R$ %.2f\n", gasto_total);
     
     return 0;
