@@ -15,7 +15,8 @@ int main() { //variáveis
     // litro 6,33
     gasto_total = (distancia / 10) * preco;
 
-    //obs: sempre para executar o codigo tem que compilar
+    /*obs: sempre para executar o codigo tem que compilar
+    e também se fizer alguma mudança*/
     
     printf("\nRESULTADO DA VIAGEM\n");
     printf("Distância: %.2f km\n", distancia);
