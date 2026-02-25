@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() { //variáveis 
+int main() { //variaveis 
     float distancia;
     float preco;
     float gasto_total;
@@ -16,11 +16,11 @@ int main() { //variáveis
     gasto_total = (distancia / 10) * preco;
 
     /*obs: sempre para executar o codigo tem que compilar
-    e também se fizer alguma mudança*/
+    e tambem se fizer alguma mudanca*/
     
     printf("\nRESULTADO DA VIAGEM\n");
-    printf("Distância: %.2f km\n", distancia);
-    printf("Preço do litro: R$ %.2f\n", preco);
+    printf("Distancia: %.2f km\n", distancia);
+    printf("Preco do litro: R$ %.2f\n", preco);
     printf("Total a gastar: R$ %.2f\n", gasto_total);
     
     return 0;
